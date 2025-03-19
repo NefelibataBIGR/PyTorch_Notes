@@ -1,2 +1,5 @@
 # PyTorch_Notes
-小土堆的pytorch视频笔记代码
+
+*learning from 小土堆b站相关视频*\
+PyTorch视频笔记代码\
+**访问本人blog：[www.nebigrrr.xin](http://nebigrrr.xin/) ，查看相关笔记**
